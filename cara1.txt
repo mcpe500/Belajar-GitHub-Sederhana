@@ -1,3 +1,9 @@
 git clone https://URL
 cd .\Belajar-GitHub-Sederhana\
+HALOOOOO
+
+git add .
+git commit -m "feat: init"
+git status
+git push
 HALOOOOOdasdsads
